@@ -60,8 +60,6 @@ Esto indica que el modelo tiene un **error promedio bajo** y **explica el 88% de
 
 ## 📈 Próximos pasos
 
-- Comparar el rendimiento con otros modelos (Random Forest, LightGBM, Linear Regression)
-- Evaluar el modelo sobre el dataset completo (incluyendo outliers)
 - Aplicar técnicas de interpretación como **SHAP values** o `feature_importances_`
 - Exportar el modelo entrenado con `joblib` para uso en producción o APIs
 
