@@ -2,4 +2,5 @@ pandas
 numpy
 matplotlib
 scikit-learn
-seabornrequirements.txt
+seaborn
+xgboost
