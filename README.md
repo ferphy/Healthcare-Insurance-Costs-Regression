@@ -78,6 +78,6 @@ Esto indica que el modelo tiene un **error promedio bajo** y **explica el 88% de
 ## 📬 Contacto
 
 - Nombre: Fernando González Laso
-- Correo: fernangl08@gmail.com
+- Correo: gonzalezlasof@gmail.com
 - [Linkedin](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-laso-b55b77250/)
 
