@@ -51,7 +51,7 @@ Se entrenó un modelo de **XGBoost Regressor**, integrado dentro de un pipeline 
 
 Evaluación del modelo sobre un conjunto de test:
 
-- **RMSE:** `1018.35`
+- **RMSE:** `991.32`
 - **R² score:** `0.88`
 
 Esto indica que el modelo tiene un **error promedio bajo** y **explica el 88% de la variabilidad** en los gastos médicos, siendo una herramienta precisa para predicción en este dominio.
