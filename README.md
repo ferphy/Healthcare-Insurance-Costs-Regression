@@ -1,5 +1,5 @@
 # 🧠 Medical Charges Prediction - Regression Model
-
+![Texto alternativo](static/web_app.png)
 Este proyecto consiste en la predicción de gastos médicos (`charges`) usando un modelo de regresión entrenado con datos demográficos y de estilo de vida de pacientes.
 
 ---
